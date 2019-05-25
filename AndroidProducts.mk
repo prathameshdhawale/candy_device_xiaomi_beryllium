@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aicp_beryllium.mk
+    $(LOCAL_DIR)/candy_beryllium.mk
