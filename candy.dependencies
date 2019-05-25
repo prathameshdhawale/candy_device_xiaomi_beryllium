@@ -1,6 +1,6 @@
 [
   {
-    "repository": "AICP/device_xiaomi_sdm845-common",
+    "repository": "CANDY/device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
     "branch": "p9.0"
   },
